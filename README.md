@@ -1,2 +1,2 @@
 # webx-nexustech
-webx example
+This folder holds the nexustech website for webx
